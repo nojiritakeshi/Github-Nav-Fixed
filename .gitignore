@@ -1,3 +1,4 @@
 node_modules/
 extention/
 *.zip
+manifest.json
