@@ -1,0 +1,17 @@
+{
+  "name": "github-header-fixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extention": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.9.5"
+  }
+}
